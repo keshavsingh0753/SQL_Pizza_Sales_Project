@@ -3,6 +3,9 @@
 Basic:
 
 1. Retrieve the total number of orders placed.
+
+   ![Screenshot (214)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/cbe1ca8d-2671-4aaf-9290-b103ec1879dc)
+
 2.Calculate the total revenue generated from pizza sales.
 
 Identify the highest-priced pizza.
@@ -23,4 +26,4 @@ Analyze the cumulative revenue generated over time.
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 
-![Screenshot (214)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/cbe1ca8d-2671-4aaf-9290-b103ec1879dc)
+
