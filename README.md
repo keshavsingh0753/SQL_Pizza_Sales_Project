@@ -14,16 +14,17 @@ Basic:
 
 3. Identify the highest-priced pizza.
 
-
-
+![Screenshot (216)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/a46fb424-06b6-4aaf-ad0b-12cf5c00e2ca)
 
 
 4.Identify the most common pizza size ordered.
 
+![Screenshot (217)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/303106fc-5f0d-452e-bf64-599aa59843e9)
 
 
 5.List the top 5 most ordered pizza types along with their quantities.
 
+![Screenshot (218)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/c2f374a8-ee39-4375-bdaa-5834778b62f0)
 
 Intermediate:
 Join the necessary tables to find the total quantity of each pizza category ordered.
