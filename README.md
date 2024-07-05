@@ -6,11 +6,23 @@ Basic:
 
    ![Screenshot (214)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/cbe1ca8d-2671-4aaf-9290-b103ec1879dc)
 
-2.Calculate the total revenue generated from pizza sales.
 
-Identify the highest-priced pizza.
-Identify the most common pizza size ordered.
-List the top 5 most ordered pizza types along with their quantities.
+2. Calculate the total revenue generated from pizza sales.
+
+![Screenshot (215)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/f400a586-12e3-49d9-ae15-96fb37530759)
+
+
+3. Identify the highest-priced pizza.
+
+
+
+
+
+4.Identify the most common pizza size ordered.
+
+
+
+5.List the top 5 most ordered pizza types along with their quantities.
 
 
 Intermediate:
