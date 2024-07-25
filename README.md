@@ -50,9 +50,13 @@ Intermediate:
 ![Screenshot (225)](https://github.com/keshavsingh0753/SQL_Pizza_Sales_Project/assets/121354906/9203a518-3fe1-4b01-b941-0d26055d5509)
 
 Advanced:
-Calculate the percentage contribution of each pizza type to total revenue.
-Analyze the cumulative revenue generated over time.
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+1. Calculate the percentage contribution of each pizza type to total revenue.
+
+![Screenshot (229)](https://github.com/user-attachments/assets/75e59763-663f-48aa-bd01-71ade48083de)
+
+2.Analyze the cumulative revenue generated over time.
+3.Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 
 
